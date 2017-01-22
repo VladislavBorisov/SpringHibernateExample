@@ -1,0 +1,4 @@
+com/sherybedrock/model/Person.class
+com/sherybedrock/dao/PersonDAOImpl.class
+com/sherybedrock/dao/PersonDAO.class
+com/sherybedrock/main/SpringHibernateMain.class
